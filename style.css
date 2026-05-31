@@ -1,0 +1,4 @@
+body {
+background-color: rgb(255, 87, 51);
+background-color: rgba(255, 87, 51, 0.5); /* 50% transparent */
+}
